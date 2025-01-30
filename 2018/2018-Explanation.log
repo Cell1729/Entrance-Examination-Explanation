@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.1.30)  30 JAN 2025 12:56
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.1.30)  30 JAN 2025 16:01
  restricted system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/sabax/LaTex/Entrance-Examination-Explanation/2018/2018-Explanation.tex
@@ -405,7 +405,9 @@ LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
 
 [1
 
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./2018-Explanation.aux)
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+[2] (./2018-Explanation.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
@@ -417,15 +419,15 @@ Here is how much of LuaTeX's memory you used:
  125244,662416 words of node,token memory allocated
  797 words of node memory still in use:
    7 hlist, 1 vlist, 4 rule, 2 glue, 3 kern, 1 glyph, 129 attribute, 50 glue_spec, 20 attribute_list, 1 write, 9 user_defined nodes
-   avail lists: 1:16,2:4817,3:114,4:35,5:68,6:16,7:680,8:38,9:276,10:2
+   avail lists: 1:17,2:28228,3:419,4:137,5:130,6:28,7:3420,8:61,9:1277,10:7
  25728 multiletter control sequences out of 65536+600000
  35 fonts using 24565999 bytes
  125i,5n,128p,1935b,209s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/texmf-local/fonts/opentype/public/haranoaji/HaranoAjiMincho-Regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><c:/texlive/texmf-local/fonts/opentype/public/haranoaji/HaranoAjiGothic-Medium.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmsans12-regular.otf><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on 2018-Explanation.pdf (1 page, 58440 bytes).
+<c:/texlive/texmf-local/fonts/opentype/public/haranoaji/HaranoAjiMincho-Regular.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><c:/texlive/texmf-local/fonts/opentype/public/haranoaji/HaranoAjiGothic-Medium.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmsans12-regular.otf><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on 2018-Explanation.pdf (2 pages, 99795 bytes).
 
-PDF statistics: 60 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
+PDF statistics: 71 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
